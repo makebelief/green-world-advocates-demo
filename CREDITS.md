@@ -1,15 +1,18 @@
 # Image credits
 
-The Green World Advocates logo and documentary gallery images are derived from materials supplied from the organisation's public Facebook page for this demo.
+Main website photography uses high-resolution Pexels source photography rather than stretching low-resolution Facebook screenshots. Pexels photos are listed as free to use on their source pages.
 
-Additional Kenyan/African environmental imagery used in the high-visibility website sections is sourced from Wikimedia Commons and linked remotely, with local organisation images configured as fallbacks:
+- Collines Omondi — African woman planting a seedling — 6048×4024 — https://www.pexels.com/photo/woman-planting-seedling-18468251/
+- Speak Media Uganda — community gathering, Kenya — 5760×3840 — https://www.pexels.com/photo/community-gathering-in-rural-african-village-33749778/
+- Twilight Kenya — environmental cleanup, Lamu County — 3840×5760 — https://www.pexels.com/photo/woman-cleaning-beach-from-rubbish-12079507/
+- Sadiq Hashim — African farmer — 4616×3222 — https://www.pexels.com/photo/african-farmer-standing-in-rural-field-33363152/
+- Muhammed Diler — community tree planting — 4928×3264 — https://www.pexels.com/photo/community-tree-planting-in-arid-landscape-40589740/
+- Emmanuel Oppong — youth football — 6000×4000 — https://www.pexels.com/photo/youth-playing-soccer-on-a-sandy-field-40305019/
+- Şeyhmus Kino — community gathering — 7008×4672 — https://www.pexels.com/photo/community-gathering-in-african-village-setting-30616651/
+- Stephanie Bujiriri — African woman farming — 4892×3256 — https://www.pexels.com/photo/woman-farming-in-african-landscape-with-volcano-36683210/
+- Ron Lach — community forest cleanup — 6240×4160 — https://www.pexels.com/photo/a-cleanup-community-picking-up-recyclables-in-the-forest-9543414/
+- Artsy Solomon — children in Turkana County, Kenya — 5184×3456 — https://www.pexels.com/photo/three-boys-sitting-on-a-grassy-field-6180490/
 
-- **MT. Kenya Forest Regeneration.jpg** — Kikshie — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:MT._Kenya_Forest_Regeneration.jpg
-- **Greenhouse Farming.jpg** — Coolbrizzy — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Greenhouse_Farming.jpg
-- **Oxfam East Africa - Cleaning up the community.jpg** — Oxfam East Africa / Linda Ogwell — CC BY 2.0 — https://commons.wikimedia.org/wiki/File:Oxfam_East_Africa_-_Cleaning_up_the_community.jpg
-- **Two Kenyan teens battle for football.jpg** — Dorcas Cheng-Tozun — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Two_Kenyan_teens_battle_for_football.jpg
+WhatsApp mark: Simple Icons WhatsApp path, brand color #25D366.
 
-The external image elements include local `data-fallback` assets so the layout remains intact if a remote image host is unavailable.
-
-## Gallery enhancement
-The organisation's documentary Facebook gallery photos were supplied at low source resolution. For this demo they were locally upscaled, lightly denoised and sharpened into responsive WebP/JPEG derivatives up to 3840px wide. This improves display quality and prevents browser stretching, but it does not claim the originals were natively captured in 4K.
+Green World Advocates logo: supplied by the user; exterior background removed while preserving internal white artwork.

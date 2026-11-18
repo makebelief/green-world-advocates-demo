@@ -1,19 +1,16 @@
-# Green World Advocates — modern demo
+# Green World Advocates demo website
 
-A responsive static website demo for Green World Advocates, Kisumu, Kenya.
+Multi-page static website for Green World Advocates, Kisumu, Kenya.
 
-## Design direction
-A blend of the organisation's original Green World Advocates identity with a cleaner, more modern environmental-platform aesthetic inspired by M-Taka's information hierarchy: strong image-led hero, focus strip, interconnected programme cards, a clear process section, gallery and direct CTA.
+## Pages
+Home, About, programme overview, four programme detail pages, Impact, Gallery, Get Involved and Contact.
 
-## Contact details used
+## Verified organisation details used
 - Phone / WhatsApp: +254 759 615 244
 - Email: advocatesgreenworld41@gmail.com
-- Location: Kisumu, Kenya
+- Location: Kisumu, Nyanza Province, Kenya
 - YouTube: @GREENWORLDADVOCATES
+- Facebook: profile.php?id=100087711067846
 
-## Files
-- `index.html`
-- `styles.css`
-- `script.js`
-- `assets/`
-- `CREDITS.md`
+## Visual QA
+Designed mobile-first with responsive breakpoints at 1080px, 820px, 600px and 390px.
