@@ -10,3 +10,6 @@ Additional Kenyan/African environmental imagery used in the high-visibility webs
 - **Two Kenyan teens battle for football.jpg** — Dorcas Cheng-Tozun — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Two_Kenyan_teens_battle_for_football.jpg
 
 The external image elements include local `data-fallback` assets so the layout remains intact if a remote image host is unavailable.
+
+## Gallery enhancement
+The organisation's documentary Facebook gallery photos were supplied at low source resolution. For this demo they were locally upscaled, lightly denoised and sharpened into responsive WebP/JPEG derivatives up to 3840px wide. This improves display quality and prevents browser stretching, but it does not claim the originals were natively captured in 4K.
