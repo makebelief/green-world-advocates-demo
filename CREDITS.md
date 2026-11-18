@@ -16,3 +16,6 @@ Main website photography uses high-resolution Pexels source photography rather t
 WhatsApp mark: Simple Icons WhatsApp path, brand color #25D366.
 
 Green World Advocates logo: supplied by the user; exterior background removed while preserving internal white artwork.
+
+## Icons
+- Font Awesome Free (local webfont assets) — https://fontawesome.com/ — icons used for interface and contact symbols.
